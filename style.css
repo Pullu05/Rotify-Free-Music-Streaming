@@ -41,7 +41,7 @@ nav ul li{
 }
 /* ----------------END OF NAV BAR--------------- */
 #Song_section{
-    background:url('/bg.jpg')  center center/cover;
+    background:url('bg.jpg')  center center/cover;
     height: 35.2rem;
     display: flex;
     width: 75%;
